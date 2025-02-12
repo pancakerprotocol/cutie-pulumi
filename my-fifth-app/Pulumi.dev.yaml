@@ -1,0 +1,8 @@
+config:
+  my-fifth-app:frontendPort: "3003"
+  my-fifth-app:backendPort: "3000"
+  my-fifth-app:mongoPort: "27017"
+  my-fifth-app:mongoHost: mongodb://mongo:27017
+  my-fifth-app:database: cart
+  my-fifth-app:nodeEnvrionment: development
+  my-fifth-app:protocol: http://
